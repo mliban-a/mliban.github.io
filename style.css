@@ -1,0 +1,40 @@
+
+.header {
+	text-align: center;
+}
+.edu {
+	 margin-left: 12em
+}
+.courses {
+	 margin-left: 12em
+}
+.skills {
+	 margin-left: 12em
+}
+
+.experience{
+	margin-left: 12em;
+}
+hr {
+    position: relative;
+    top: 10px;
+    border: none;
+    height: 10px;
+    background: black;
+    margin-bottom: 50px;
+}
+.rel{
+	font-size: 12px;
+}
+.ed{
+	font-size: 12px;
+}
+.comp{
+	font-size: 12px;
+}
+.exp{
+	font-size: 12px;
+}
+body {
+	font-size: 15px;
+}
